@@ -14,7 +14,7 @@ public class WebController {
 	
 	@GetMapping("/*")
 	public String test_1() {
-		return "aaa. 현재시간 : "+new Date();
+		return "aaa. 현재시간ㅋ : "+new Date();
 	}
 
 }
